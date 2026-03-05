@@ -124,3 +124,5 @@ This repository demonstrates a simplified DevOps lifecycle including:
 * Artifact publishing
 * Infrastructure provisioning
 * Kubernetes deployment
+
+This repository demonstrates a simplified DevOps workflow for learning and presentation purposes.
